@@ -22,6 +22,12 @@ Opções escolhidas no init do EsLint:
 ✔ Would you like to install them now with npm? · No / Yes
 ```
 
+* adicionado prettier https://prettier.io/
+
+```yarn add prettier eslint-plugin-prettier eslint-config-prettier -D```
+
+
+
 
 
 
