@@ -28,6 +28,12 @@ Opções escolhidas no init do EsLint:
 
 * adicionado .editorconfig para padronização de edição de arquivos independente de IDE
 
+* adicionado styled-components para estilização
+
+```yarn add styled-components```
+
+```yarn add @types/styled-components -D```
+
 
 
 
