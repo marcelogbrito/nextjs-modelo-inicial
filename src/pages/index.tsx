@@ -1,6 +1,6 @@
 import Head from 'next/head'
 
-export const Home: React.FC = () => {
+const Home: React.FC = () => {
   return (
     <>
       <Head>
@@ -13,4 +13,8 @@ export const Home: React.FC = () => {
       </main>
     </>
   )
+
+
 }
+
+export default Home
