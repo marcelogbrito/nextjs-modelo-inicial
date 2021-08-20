@@ -26,6 +26,10 @@ Opções escolhidas no init do EsLint:
 
 ```yarn add prettier eslint-plugin-prettier eslint-config-prettier -D```
 
+* adicionado .editorconfig para padronização de edição de arquivos independente de IDE
+
+
+
 
 
 
