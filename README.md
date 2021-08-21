@@ -34,6 +34,12 @@ Opções escolhidas no init do EsLint:
 
 ```yarn add @types/styled-components -D```
 
+* adicionado next-images `yarn add next-images`
+
+* adicionado Jest https://jestjs.io/ `yarn add jest -D`
+
+* adicionado swr https://swr.vercel.app/ `yarn add swr`
+
 
 
 
